@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tech Week Horaire 2022</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main4">MainActivity4</string><!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="v_return">Retour</string>
+    <string name="v_day1">Lundi</string>
+    <string name="v_day2">Mardi</string>
+    <string name="v_day3">Mercredi</string>
+    <string name="v_day4">Jeudi</string>
+    <string name="v_day5">Vendredi</string>
+    <string name="v_time">Heure</string>
+    <string name="v_presenter">Presentateur(trice)</string>
+    <string name="v_description">Description</string>
+    <string name="v_activityMode">Mode d’activité</string>
+    <string name="v_learningActivity">Activité d’apprentissage</string>
+    <string name="v_language">Langue</string>
+</resources>
