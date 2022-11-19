@@ -20,4 +20,5 @@
     <string name="v_activityMode">Activity mode</string>
     <string name="v_learningActivity">Learning activity</string>
     <string name="v_language">Language</string>
+    <string name="title_activity_manage">ManageActivity</string>
 </resources>
