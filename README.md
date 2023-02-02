@@ -1,4 +1,4 @@
-# techweek_android_project
+# Techweek_android_project
 First project for Techweek to schedule the activites held on this event. Development made on Android Studio. The project was developped by the INT group of LaSalle College. 
 DESIGN STAGE
 Designed effective UI/UX prototypes based on the original website styles and colors and the Product Owner's requirements.
